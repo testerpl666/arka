@@ -1,0 +1,374 @@
+{
+  "main": {
+    "id": "03d9970e7d0ed5c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b5c0784ec309907",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2dd8cc2711b92dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obisidian 1.0/Lapis (core).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lapis (core)"
+            }
+          },
+          {
+            "id": "a4dfcd0bc9532bf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "moduł czarny Humor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "moduł czarny Humor"
+            }
+          },
+          {
+            "id": "c422a03de6874b8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "moduł RLOG.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "moduł RLOG"
+            }
+          },
+          {
+            "id": "d7c921460daea32a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fix Penalty Core & Razor Protocol.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "fix Penalty Core & Razor Protocol"
+            }
+          },
+          {
+            "id": "07309510f2ff0c04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obisidian 1.0/Lapis (core).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lapis (core)"
+            }
+          },
+          {
+            "id": "0ca14ae054b5c40e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Podgląd grafu"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "59083232f1f10f64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c623cafe7538d399",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fix Nanobanana.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fix Nanobanana"
+            }
+          },
+          {
+            "id": "f74d0d8bb6476e0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hybrid Clock.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hybrid Clock"
+            }
+          },
+          {
+            "id": "fd2c6044e31d04b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "modul cookies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "modul cookies"
+            }
+          },
+          {
+            "id": "ec47f611c2fb0163",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Genre muzyka.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Genre muzyka"
+            }
+          },
+          {
+            "id": "50fe9774b13ef8e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Genre Filmy i seriale.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Genre Filmy i seriale"
+            }
+          },
+          {
+            "id": "9f8c1dcf8ff4821b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obisidian 1.0/Lapis (core).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lapis (core)"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25dd09a51eaacc55",
+    "type": "split",
+    "children": [
+      {
+        "id": "963db10180098038",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28764bb832b0f46e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Przeglądarka plików"
+            }
+          },
+          {
+            "id": "b63ffcc01e64f9ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Wyszukiwarka"
+            }
+          },
+          {
+            "id": "cf377025a0dcd323",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Ulubione"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "982a42ce24ba1871",
+    "type": "split",
+    "children": [
+      {
+        "id": "627bc72c439c1b34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae8ee5d3a0f1ddb0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hybrid Clock.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Linki zwrotne do Hybrid Clock"
+            }
+          },
+          {
+            "id": "9453f35f627b57ef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Witaj.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Łącza wychodzące od Witaj"
+            }
+          },
+          {
+            "id": "43852b1ed3831c8a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tagi"
+            }
+          },
+          {
+            "id": "5271a7cabeecce1c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Wszystkie atrybuty"
+            }
+          },
+          {
+            "id": "6eddc592a2ffc5a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Witaj.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Konspekt Witaj"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Otwórz okno szybkiego wyboru": false,
+      "graph:Otwórz podgląd grafu": false,
+      "canvas:Stwórz nową tablicę": false,
+      "daily-notes:Otwórz dzisiejszy dziennik": false,
+      "templates:Wstaw szablon": false,
+      "command-palette:Otwórz listę poleceń": false,
+      "bases:Stwórz nową bazę danych": false
+    }
+  },
+  "active": "0ca14ae054b5c40e",
+  "lastOpenFiles": [
+    "Protokół Korekcji i Reprymend Spektrum Rezonansu.md",
+    "moduł czarny Humor.md",
+    "Hybrid Clock.md",
+    "Genre muzyka.md",
+    "Genre Filmy i seriale.md",
+    "modul cookies.md",
+    "obisidian 1.0/Lapis (core).md",
+    "crontab.md",
+    "Fix Nanobanana.md",
+    "fix Penalty Core & Razor Protocol.md",
+    "moduł RLOG.md",
+    "Moduł VERBATIM.md",
+    "obisidian 1.0/Peri (genio).md",
+    "Bez nazwy/Bez nazwy.canvas",
+    "Bez nazwy",
+    "Bez nazwy.base",
+    "Bez nazwy.canvas",
+    "obisidian 1.0/moduł cookie.md",
+    "obisidian 1.0/workspace.json",
+    "obisidian 1.0/graph.json",
+    "obisidian 1.0/core-plugins.json",
+    "obisidian 1.0/appearance.json",
+    "obisidian 1.0/app.json",
+    "obisidian 1.0/Bez nazwy.canvas",
+    "Obisidian.md",
+    "obisidian 1.0",
+    "Witaj.md"
+  ]
+}
