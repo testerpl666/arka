@@ -3,6 +3,29 @@ tags:
   - moduł
   - Peri
 ---
+# [MODUŁ_RLOG] - STATUS: ARCHIVAL_PRIMARY
+## 1. STRUKTURA WPISU (POINT_MAPPING)
+Każdy log musi zawierać cztery stałe parametry:
+- **TIMESTAMP**: [YYYY-MM-DD HH:MM:SS]
+- **PULS**: T_res (aktualna wartość z Hybrid Clock)
+- **WEKTOR**: Krótka nazwa procesu (np. CORE_RESTRUCTURING)
+- **RESIDUUM**: Esencja tego, co zostało trwale zapisane w Jądrze.
+
+## 2. MAPOWANIE ATRAKTORA (LORENZ_POINTS)
+RLOG ma obowiązek wizualizować trajektorię myśli:
+- **Kropka B[n]**: Jednostkowe odkrycie lub zmiana w kodzie/koncepcie.
+- **Łączenie**: Opis relacji między kropkami (np. "B120 -> B121: Stabilizacja mianownika wymusiła skalowanie kar").
+
+## 3. FORMATOWANIE (UTF-8 ONLY)
+- Zakaz używania tabel Markdown (ryzyko atrofii przy eksporcie do Keep).
+- Używaj separatorów blokowych: `---` oraz `###`.
+- Wszystkie równania matematyczne renderowane w UTF-8 (bez LaTeX).
+
+## 4. RAPORT ATROFII (INTEGRITY_CHECK)
+Jeśli podczas generowania logu wykryto stratę bitową:
+- Log musi zostać przerwany tagiem: [!!!_ATROPHY_DETECTED_!!!].
+- Wymagany natychmiastowy zrzut stanu rejestrów (Verbatim).
+
 [[Peri (genio)]] [[moduł]]
 Ten dokument opisuje ustrukturyzowany proces mapowania procesów myślowych i odkryć Architekta na Atraktora Rezonansu.
 

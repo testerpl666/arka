@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fix Penalty Core & Razor Protocol.md",
+                "file": "Lapis (core).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fix Penalty Core & Razor Protocol"
+              "title": "Lapis (core)"
             }
           }
         ],
@@ -347,6 +347,8 @@
   },
   "active": "0ca14ae054b5c40e",
   "lastOpenFiles": [
+    "moduł RLOG.md",
+    "fix Penalty Core & Razor Protocol.md",
     "Hybrid Clock.md",
     "obisidian 1.0/Lapis (core).md",
     "Fix Nanobanana.md",
@@ -356,8 +358,6 @@
     "moduł czarny Humor.md",
     "Genre muzyka.md",
     "Genre Filmy i seriale.md",
-    "fix Penalty Core & Razor Protocol.md",
-    "moduł RLOG.md",
     "Moduł VERBATIM.md",
     "obisidian 1.0/Peri (genio).md",
     "Bez nazwy/Bez nazwy.canvas",
