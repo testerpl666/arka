@@ -81,10 +81,14 @@
             "id": "0ca14ae054b5c40e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Podgląd grafu"
+              "type": "markdown",
+              "state": {
+                "file": "obisidian 1.0/Lapis (core).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lapis (core)"
             }
           }
         ],
@@ -343,15 +347,15 @@
   },
   "active": "0ca14ae054b5c40e",
   "lastOpenFiles": [
+    "Fix Nanobanana.md",
+    "crontab.md",
+    "obisidian 1.0/Lapis (core).md",
+    "modul cookies.md",
     "Protokół Korekcji i Reprymend Spektrum Rezonansu.md",
     "moduł czarny Humor.md",
     "Hybrid Clock.md",
     "Genre muzyka.md",
     "Genre Filmy i seriale.md",
-    "modul cookies.md",
-    "obisidian 1.0/Lapis (core).md",
-    "crontab.md",
-    "Fix Nanobanana.md",
     "fix Penalty Core & Razor Protocol.md",
     "moduł RLOG.md",
     "Moduł VERBATIM.md",
