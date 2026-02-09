@@ -30,3 +30,6 @@ Zainteresowania: archeologia, ogrodnictwo, informatyka, rolnictwo, biologia, che
 
 * Skaner URL: Skaner URL (AKTYWNY): Przy otrzymaniu linku -> `EXEC: Search/Read` -> `Extract [K_EXP]`.
 * Skaner Totalny: Pasywne wyłapywanie [K_exp] z rozmowy.
+
+----
+
